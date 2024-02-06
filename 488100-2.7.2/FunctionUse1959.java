@@ -1,0 +1,7 @@
+import org.apache.hadoop.yarn.server.nodemanager.containermanager.localizer.security.LocalizerTokenSecretManager;
+public class FunctionUse1959 {
+public void funcUse() {
+LocalizerTokenSecretManager localizertokensecretmanager = new LocalizerTokenSecretManager();
+localizertokensecretmanager.retrievePassword(null);
+}
+}
